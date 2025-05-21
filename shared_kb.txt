@@ -1,0 +1,2 @@
+Shared knowledge base for all Custom GPTs:
+https://raw.githubusercontent.com/thekhushimalik/custom_gpt_kb/main/kb.json
